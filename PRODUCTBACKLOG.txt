@@ -1,0 +1,31 @@
+PRODUCT BACKLOG
+
+    File       : PRODUCTBACKLOG.txt
+    Time-stamp : 2016-12-20T23:30 Aleksi Hella
+    Description: The product is a shopping list written in Java and working with CLI and GUI.
+		 Uses self-made linked list. The product is returned in 3 releases with
+		 predetermined dates.
+
+PRODUCT BACKLOG WITH RELEASES
+
+    RELEASE 1: 2016-11-29T23:55
+
+    - CLI
+    - Implementing self-made linked list
+    - Javadoc
+
+    RELEASE 2: 2016-12-07T23:55
+
+    - Saving to text file (also opening and transforming)
+    - Javadoc
+
+    RELEASE 3: 2016-12-20T23:55
+	
+    - GUI
+    - Deleting list items
+    - Clearing list
+    - Manual for CLI
+    - File chooser
+    - Javadoc
+
+End of file.

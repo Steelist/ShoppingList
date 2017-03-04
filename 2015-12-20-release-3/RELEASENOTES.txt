@@ -1,0 +1,58 @@
+RELEASE NOTES
+
+    File          : RELEASENOTES.txt
+    Time-stamp    : 2016-12-20T23:30 Aleksi Hella
+    Description   : Release notes for release 3.
+    Amount of work: 24 h
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    URL: -
+    PW: -
+
+GENERAL INFO
+
+    The features took much longer than what I had anticipated. This is what caused
+	the unfortunate lack of features. Some of my plans for each day got pushed to the
+	next day again and again and I had to solve much more problems than what I had
+	anticipated. This is why I decided to do as well as I can the features that I was
+	having troubles with and leave all the unnecessary bonus features out. This way
+	I would kind of learn less but I would learn the things I looked into much better.
+	I think that was the right call for me as I'm not super smart about programming
+	yet. Now I know to prepare myself a little better next time and I'm again a little
+	smarter.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - GUI
+    - Saving to Dropbox
+    - Deleting list items
+    - Client connects to middleware using REST API
+    - Supporting multiple clients
+    - Javadoc
+
+IMPLEMENTED FEATURES
+
+    - GUI
+    - Deleting list items
+    - Clearing list
+    - Manual for CLI
+    - File chooser
+    - Javadoc
+
+FEATURES NOT IMPLEMENTED
+
+    - Saving to Dropbox
+    - Client connects to middleware using REST API
+    - Supporting multiple clients
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    - 
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to
+    correspond to the new situation.
+
+End of file.

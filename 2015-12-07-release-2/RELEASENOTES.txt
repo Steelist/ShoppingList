@@ -1,0 +1,53 @@
+RELEASE NOTES
+
+    File          : RELEASENOTES.txt
+    Time-stamp    : 2016-12-07T23:40 Aleksi Hella
+    Description   : Release notes for release 2.
+    Amount of work: 8 h
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    URL: -
+    PW: -
+
+GENERAL INFO
+
+	Lists can now be saved to the location where the application was ran
+	from and they can also be opened and modified. Because of the 
+	insufficient time spent on the second release all the time was spent
+	on searching for a working way to handle saving and opening the text 
+	files. The next (and final) release will include the planned features
+	of the second release and its own planned features.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features where planned for this release:
+
+    - GUI
+    - Saving to text file (also opening and transforming)
+    - Saving to Dropbox
+    - Javadoc
+
+IMPLEMENTED FEATURES
+
+    - Saving to text file (also opening and transforming)
+	- Javadoc
+
+FEATURES NOT IMPLEMENTED
+
+    - GUI
+	- Saving to Dropbox
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+	- GUI
+	- Saving to Dropbox
+	- Deleting list items
+    - Client connects to middleware using REST API
+    - Supporting multiple clients
+    - Javadoc
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to
+    correspond to the new situation.
+
+End of file.

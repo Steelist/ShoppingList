@@ -1,0 +1,48 @@
+RELEASE NOTES
+
+    File          : RELEASENOTES.txt
+    Time-stamp    : 2016-11-29T22:00 Aleksi Hella
+    Description   : Release notes for release 1.
+    Amount of work: 12 h
+
+VIDEO PRESENTATION ABOUT THE RELEASE
+
+    URL: -
+    PW: -
+
+GENERAL INFO
+
+    All the planned features made it to the release. The user needs to be
+	extremely careful typing items to the shopping list as the slightest
+	of mistake can cause errors in the code. The application does what is
+	expected of it but it could use more tools to work with as it is.
+
+PLANNED FEATURES FROM PRODUCT BACKLOG
+
+    Following features were planned for this release:
+
+    - CLI
+	- Self-made linked list
+	- Javadoc
+
+IMPLEMENTED FEATURES
+
+    - CLI
+	- Self-made linked list
+	- Javadoc
+
+FEATURES NOT IMPLEMENTED
+
+    - All planned features were implemented
+
+PLANNED FEATURES FOR NEXT RELEASE
+
+    - GUI
+    - Saving to text file (also opening and transforming)
+    - Saving to Dropbox
+    - Javadoc
+
+    Product backlog (PRODUCTBACKLOG.txt) has been updated to
+    correspond to the new situation.
+
+End of file.
